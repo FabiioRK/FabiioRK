@@ -1,5 +1,4 @@
 # Sobre mim:
-🔭 Buscando o máximo de conhecimento possível de forma eficiente
 
 
 ## Redes Sociais:
