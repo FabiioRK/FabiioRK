@@ -19,9 +19,6 @@
 # Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FabiioRK&theme=dark&hide_border=true)<br/>
 
-## Troféus
-![](https://github-profile-trophy.vercel.app/?username=FabiioRK&theme=flat&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=FabiioRK&icon=8&color=12)](https://visitcount.itsvg.in)
 
